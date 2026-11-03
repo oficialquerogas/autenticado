@@ -1,0 +1,16 @@
+QUERO GAS DIGITAL - UNIDADE 501 - HTML v1.54
+
+Arquivos para publicar na MESMA pasta do GitHub Pages:
+501.html
+manifest-501.webmanifest
+sw-501.js
+icone-501-180.png
+icone-501-192.png
+icone-501-512.png
+
+O Apps Script foi incluido sem alteracoes: preserva o comportamento atual da aba 501.
+Para novos clientes, sera necessario implementar roteamento de unidade em todas as operacoes, incluindo validacao de acesso e isolamento de dados; trocar apenas a constante 501 nao e seguro.
+
+Alteracoes no HTML: texto de observacoes para entrega de gas/agua; versao 1.54; icone Apple externo.
+A instalacao automatica depende do navegador; iPhone utiliza Adicionar a Tela de Inicio.
+Teste a instalacao no endereco HTTPS publicado.

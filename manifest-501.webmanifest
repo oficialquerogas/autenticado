@@ -1,0 +1,25 @@
+{
+  "id": "./501.html",
+  "name": "Quero Gás Digital - Valadares Gás e Água",
+  "short_name": "Quero Gás",
+  "description": "Pedidos de gás e água da Valadares Gás e Água",
+  "start_url": "./501.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#00a365",
+  "theme_color": "#00a365",
+  "icons": [
+    {
+      "src": "./icone-501-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icone-501-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
